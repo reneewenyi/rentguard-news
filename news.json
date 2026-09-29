@@ -1,0 +1,55 @@
+{
+  "updated": "2026-09-29",
+  "issues": [
+    {
+      "issue": 1,
+      "date": "2026-09-29",
+      "items": [
+        {
+          "category": "market",
+          "source_type": "media",
+          "date": "2026-09-25",
+          "title_zh": "8月租金：公寓持平，组屋微跌",
+          "title_en": "August rents: condos flat, HDB rents dip 0.7%",
+          "summary_zh": "据99.co/SRX估算，8月公寓租金与7月持平（比去年高2.5%），组屋租金环比跌0.7%，成交量也回落。租金整体稳，续约时可以拿这些数字跟房东谈，别轻易接受大幅加租。",
+          "summary_en": "99.co/SRX estimates show condo rents flat in August (2.5% above a year ago) while HDB rents slipped 0.7% month on month, with fewer leases signed. Rents are stable, so use these numbers when negotiating a renewal instead of accepting a big increase.",
+          "source_name": "99.co (media report, SRX/99.co data)",
+          "url": "https://www.99.co/singapore/insider/condo-hdb-rental-market-august-2026/"
+        },
+        {
+          "category": "scam",
+          "source_type": "official",
+          "date": "2026-09-25",
+          "title_zh": "警方提醒：冒充移民局与假PR代办骗局",
+          "title_en": "Police warn of fake ICA calls and PR-help ad scams",
+          "summary_zh": "警方和移民局提醒：有人冒充ICA来电，再转给假“中国官员”要钱；也有社交媒体广告假称能帮办PR收费。政府人员不会让你转账或把电话转给警察，申请PR请直接走ICA官网。",
+          "summary_en": "Police and ICA warn of callers posing as ICA officers who hand you to a fake 'China official' demanding money, and of social media ads selling fake PR application help. Officials never ask you to transfer money or pass your call to police; apply for PR only via ICA's own website.",
+          "source_name": "Singapore Police Force",
+          "url": "https://www.police.gov.sg/Media-Hub/News/2026/09/20260925_advisory_on_scams_involving_the_immigration_checkpoints_authority_ica"
+        },
+        {
+          "category": "tip",
+          "source_type": "official",
+          "date": "2026-06-25",
+          "title_zh": "没看房之前，一分钱都别付",
+          "title_en": "Tip: never pay before you view the home",
+          "summary_zh": "CEA提醒：看房和租房都不需要先付钱。先把中介的电话号码输入CEA公共名册查一下，亲自去看房，租金订金只直接付给屋主，用银行转账或划线支票这类能追查的方式。",
+          "summary_en": "CEA says no payment is needed to book a viewing or secure a rental. Search the agent's phone number on the CEA Public Register, view the home in person, and pay only the owner directly by a traceable method such as bank transfer or crossed cheque.",
+          "source_name": "Council for Estate Agencies (CEA)",
+          "url": "https://www.cea.gov.sg/consumers/rental-scams/"
+        },
+        {
+          "category": "tip",
+          "source_type": "official",
+          "date": "2026-09-29",
+          "title_zh": "租约签完14天内要盖印花税",
+          "title_en": "Tip: stamp your tenancy agreement within 14 days",
+          "summary_zh": "IRAS规定：在新加坡签的租约要在签署后14天内网上盖印花税（在海外签的，入境后30天内），逾期最多罚4倍。拿到印花证书（Stamp Certificate）对租客也是一种保障，先和房东说好谁来付。",
+          "summary_en": "IRAS says a lease signed in Singapore must be e-stamped within 14 days (30 days after arrival if signed overseas), or penalties of up to 4 times the duty may apply. The Stamp Certificate protects tenants too, so agree with your landlord upfront on who pays.",
+          "source_name": "IRAS",
+          "url": "https://www.iras.gov.sg/taxes/stamp-duty/for-property/basics-of-stamp-duty-for-property/learning-the-basics-for-properties"
+        }
+      ]
+    }
+  ]
+}
